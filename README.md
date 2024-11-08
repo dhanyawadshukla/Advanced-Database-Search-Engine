@@ -1,1 +1,1 @@
-# Advanced-Database-Search-Engine
+ Implemented a Robust Search Engine and Dictionary utilizing advanced data structures and algorithms for efficient performance - Employed Trie data structure for efficient word storage and retrieval, enabling rapid word frequency queries and lookups - Implemented the Rabin-Karp Algorithm for efficient and accurate pattern searches, utilizing rolling hash for text segmentation
